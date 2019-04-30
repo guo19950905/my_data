@@ -1,0 +1,40 @@
+设置一个只能使用纯数字输入的密码
+如果不是纯数字则提示错误
+如果是纯数字则显示添加 append追加到一个空列表中
+用户名也一样 
+设置纯字母的用户名 追加到一个列表中存储
+
+
+
+index find split rsplit lsplit strip rstrip lstrip count center ljust rjust partition len splitlinse
+
+
+在可变的数据类型引用  b += b 是修改  b = b +b 是重新赋值
+
+可变的数据类型: 列表字典集合 不可变的 int str float tuple bool   有序 str list tuple 无序的 set dict  
+lambda  global  r 只读 w 只写 a 追加 close  open 
+
+read readlines readline getcwd remove mkdir chdir renames rmdir listdir rmtree writh 
+
+
+输入方法 send_keys 点击方式  click   清空方式 clear  
+最大化 maximize  设置窗口大小 size  设置浏览器位置 poistion  后退 back  前进 forward   刷新页面 refresh  关闭当前主窗口 close 关闭全部由网页驱动打开的页面  quit
+title 获取网站title 信息 获取当前url信息 current_url 
+
+
+获取文本 text  获取元素大小 size 获取元素属性 get_allribute  判断元素是否可见  is_displayed   判断元素是否可用 is_enabled   判断元素是否选中 is_selected
+actionchains  类 
+context_click 右键   double_click 双击  悬停  move_to_element   拖拽  drag_and_drop  perform 
+
+
+keys 
+
+配置元件
+前置处理器
+定时器
+样式器
+后置处理器
+断言
+监听器
+
+
